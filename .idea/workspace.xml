@@ -5,9 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6488523c-5dc0-45a6-9c54-ee807f53e922" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/09-Calculadora/src/Principal.java" beforeDir="false" afterPath="$PROJECT_DIR$/09-Calculadora/src/Principal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/10-Cuenta Bancaria/src/Principal.java" beforeDir="false" afterPath="$PROJECT_DIR$/10-Cuenta Bancaria/src/Principal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/10-Cuenta Bancaria/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/10-Cuenta Bancaria/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/10-Cuenta Bancaria/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/10-Cuenta Bancaria/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/10-Cuenta Bancaria/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/10-Cuenta Bancaria/10-Cuenta Bancaria.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/10-Cuenta Bancaria/Cuenta Bancaria.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/10-Cuenta Bancaria/src/Principal.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,12 +24,12 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "diegocoellomoran"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;diegocoellomoran&quot;
   }
-}]]></component>
+}</component>
   <component name="GithubPullRequestsUISettings">
     <option name="selectedUrlAndAccountId">
       <UrlAndAccount>
@@ -35,6 +42,9 @@
   &quot;associatedIndex&quot;: 5
 }</component>
   <component name="ProjectId" id="2WpobFb1Z25UPPL7sjSYh0Oqmf6" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />

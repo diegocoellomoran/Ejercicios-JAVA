@@ -1,3 +1,5 @@
+package com.liceolapaz.des.dcm;
+
 import java.util.Scanner;
 
 public class Principal {
