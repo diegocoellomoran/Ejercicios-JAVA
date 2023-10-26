@@ -13,6 +13,11 @@ public class Principal {
         // Saludar al usuario
         saludarUsuario(nombreUsuario);
     }
+
+    private static void saludarUsuario(String nombreUsuario) {
+        System.out.println("");
+    }
+
     private static void ponerEncabezado() {
         System.out.println("HOLA USUARIO"); }
     private static void pedirNombre() {
@@ -20,13 +25,13 @@ public class Principal {
     }
 
 
-    }
+
 
     private static String leerNombre() {
         Scanner teclado = new Scanner(System.in);
         String nombre = teclado.nextLine();
         return nombre;
-    }s
+    }
 
 
 
