@@ -62,7 +62,7 @@ public class Principal {
             case 1:
                 resultado = primerOperando + segundoOperando;
                 break;
-            // Resta
+                // Resta
             case 2:
                 resultado = primerOperando - segundoOperando;
                 break;
