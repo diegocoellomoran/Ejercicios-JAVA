@@ -88,6 +88,7 @@ public class Principal {
             else {
                 // Restar cantidad al saldo
                 saldoCuenta -= cantidad;
+
                 // Mostrar saldo
                 mostrarSaldo();
             }
